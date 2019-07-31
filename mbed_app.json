@@ -33,6 +33,10 @@
             "app.protagonist-flash": "\"alice.h\"",
             "app.protagonist-file-to-flash": "\"alice.h\""
         },
+        "DISCO_F413ZH": {
+            "target.network-default-interface-type": "WIFI",
+            "target.components_add": ["QSPIF"]
+        },
         "DISCO_L475VG_IOT01A": {
             "target.network-default-interface-type": "WIFI",
             "target.components_add": ["QSPIF"]
